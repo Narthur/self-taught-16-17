@@ -15,6 +15,7 @@ My post-school education for the school year of 2016-2017
 - Online courses (1 every 2 months?)
 - Books (1 every 2 weeks?)
 - Articles (1 / day?)
+- Videos (2 / day?)
 
 ## Sources
 
@@ -26,6 +27,10 @@ My post-school education for the school year of 2016-2017
 
 - [Math ∩ Programming](http://jeremykun.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
 - [My artificial-intelligence shelf on GoodReads](https://www.goodreads.com/review/list/9682365?shelf=artificial-intelligence)
+
+### Mobile Development
+
+- [Android Developers YouTube channel](https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg)
 
 ### Textbooks
 
