@@ -25,7 +25,8 @@ My post-school education for the school year of 2016-2017
 ### Machine Learning
 
 - [Math ∩ Programming](http://jeremykun.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
+- [My artificial-intelligence shelf on GoodReads](https://www.goodreads.com/review/list/9682365?shelf=artificial-intelligence)
 
 ### Textbooks
 
-- http://www.slugbooks.com/
+- [Slogbooks](http://www.slugbooks.com/)
