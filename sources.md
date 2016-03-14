@@ -13,19 +13,19 @@
 
 - [OpenHPI](https://open.hpi.de/courses?lang=en)
 
-### Math
-
-- [Khan Academy](https://www.khanacademy.org/)
-
-### Machine Learning
+#### Machine Learning
 
 - [Math ∩ Programming](http://jeremykun.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
 - [My artificial-intelligence shelf on GoodReads](https://www.goodreads.com/review/list/9682365?shelf=artificial-intelligence)
 
-### Mobile Development
+#### Mobile Development
 
 - [Android Developers YouTube channel](https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg)
 - [Make School online iPhone development course](https://www.makeschool.com/online-academy)
+
+### Math
+
+- [Khan Academy](https://www.khanacademy.org/)
 
 ### Behavioral Sciences
 
