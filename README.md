@@ -19,6 +19,10 @@ My post-school education for the school year of 2016-2017
 
 ## Sources
 
+### Computer Science
+
+- [OpenHPI](https://open.hpi.de/courses?lang=en)
+
 ### Math
 
 - [Khan Academy](https://www.khanacademy.org/)
