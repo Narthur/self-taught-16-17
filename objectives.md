@@ -9,6 +9,8 @@
 - vagrant
 - docker
 - [GSS](http://gridstylesheets.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
+- [TensorFlow](https://www.tensorflow.org/)
 
 # Deliverables
 
