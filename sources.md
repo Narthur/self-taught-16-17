@@ -27,6 +27,11 @@
 - [Android Developers YouTube channel](https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg)
 - [Make School online iPhone development course](https://www.makeschool.com/online-academy)
 
+#### Haskell
+
+- [Pragmatic Haskell for Beginners, Lecture 1](https://begriffs.com/posts/2016-05-14-pragmatic-haskell-1.html)
+- [Pragmatic Haskell for Beginners, Lecture 2](https://begriffs.com/posts/2016-06-01-pragmatic-haskell-2.html?utm_source=hackernewsletter&utm_medium=email&utm_term=watching)
+
 ### Math
 
 - [Khan Academy](https://www.khanacademy.org/)
