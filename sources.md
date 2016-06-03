@@ -12,6 +12,7 @@
 ### Computer Science
 
 - [OpenHPI](https://open.hpi.de/courses?lang=en)
+- [Linux Journey](https://linuxjourney.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn)
 
 #### Machine Learning
 
