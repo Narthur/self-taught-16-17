@@ -20,6 +20,7 @@
 - [My artificial-intelligence shelf on GoodReads](https://www.goodreads.com/review/list/9682365?shelf=artificial-intelligence)
 - [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 - [colah's blog](http://colah.github.io/)
+- [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples?utm_source=hackernewsletter&utm_medium=email&utm_term=code)
 
 #### Mobile Development
 
